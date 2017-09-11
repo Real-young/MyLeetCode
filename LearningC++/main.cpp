@@ -19,13 +19,15 @@ void selectionSort (T arr[] , int n) {
 
 int main() {
 
-    int n = 100;
+    int n = 100000;
     int *arr = sortTestHelper::generateRandomArray(n,0,n);
-    selectionSort(arr,n);
-    for (int i = 0; i < n; i++) {
-        cout << arr[i] << "";
-        cout << endl;
-    }
+//    selectionSort(arr,n);
+//    for (int i = 0; i < n; i++) {
+//        cout << arr[i] << "";
+//        cout << endl;
+//    }
+
+    sortTestHelper::testSort("Selecetion Test",selectionSort,arr,n);
 
     //开辟了数组空间 需要释放
     delete[] arr;

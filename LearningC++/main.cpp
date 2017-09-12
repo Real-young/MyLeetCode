@@ -1,5 +1,6 @@
 #include <iostream>
 #include "sortTestHelper.h"
+#include "insertionSort.h"
 using namespace std;
 
 
@@ -19,8 +20,11 @@ void selectionSort (T arr[] , int n) {
 
 int main() {
 
-    int n = 100000;
+    int n = 10000;
     int *arr = sortTestHelper::generateRandomArray(n,0,n);
+    int *copyArr = sortTestHelper::copyIntArray(arr,n);
+
+
 //    selectionSort(arr,n);
 //    for (int i = 0; i < n; i++) {
 //        cout << arr[i] << "";
@@ -28,8 +32,9 @@ int main() {
 //    }
 
     sortTestHelper::testSort("Selecetion Test",selectionSort,arr,n);
-
+    sortTestHelper::testSort("insertion Test",insertionSort,copyArr,n);
     //开辟了数组空间 需要释放
     delete[] arr;
+    delete[] copyArr;
     return 0;
 }

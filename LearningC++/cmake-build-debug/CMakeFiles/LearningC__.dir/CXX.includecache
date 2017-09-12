@@ -6,11 +6,15 @@
 
 #IncludeRegexTransform: 
 
+D:/LearningC++/insertionSort.h
+
 D:/LearningC++/main.cpp
 iostream
 -
 sortTestHelper.h
 D:/LearningC++/sortTestHelper.h
+insertionSort.h
+D:/LearningC++/insertionSort.h
 
 D:/LearningC++/sortTestHelper.h
 iostream

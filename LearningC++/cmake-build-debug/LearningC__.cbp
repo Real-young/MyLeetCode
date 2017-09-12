@@ -82,6 +82,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="D:/LearningC++/insertionSort.h">
+			<Option target="LearningC__"/>
+		</Unit>
 		<Unit filename="D:/LearningC++/main.cpp">
 			<Option target="LearningC__"/>
 		</Unit>

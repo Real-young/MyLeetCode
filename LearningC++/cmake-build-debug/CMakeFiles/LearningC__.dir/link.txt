@@ -1,3 +1,0 @@
-"D:\CLion 2017.2.2\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\LearningC__.dir/objects.a
-C:\PROGRA~2\Dev-Cpp\MinGW64\bin\ar.exe cr CMakeFiles\LearningC__.dir/objects.a @CMakeFiles\LearningC__.dir\objects1.rsp
-C:\PROGRA~2\Dev-Cpp\MinGW64\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\LearningC__.dir/objects.a -Wl,--no-whole-archive  -o LearningC__.exe -Wl,--out-implib,libLearningC__.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\LearningC__.dir\linklibs.rsp

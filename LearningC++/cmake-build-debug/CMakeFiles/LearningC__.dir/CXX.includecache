@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/175/MyLeetCode/LearningC++/main.cpp
+iostream
+-
+sortTestHelper.h
+C:/Users/175/MyLeetCode/LearningC++/sortTestHelper.h
+mergeSort.h
+C:/Users/175/MyLeetCode/LearningC++/mergeSort.h
+
+C:/Users/175/MyLeetCode/LearningC++/mergeSort.h
+iostream
+C:/Users/175/MyLeetCode/LearningC++/iostream
+
+C:/Users/175/MyLeetCode/LearningC++/sortTestHelper.h
+iostream
+-
+ctime
+-
+cassert
+-
+

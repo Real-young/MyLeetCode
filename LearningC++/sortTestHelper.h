@@ -27,7 +27,7 @@ namespace sortTestHelper {
     //打印数组arr的所有内容
     template <typename T>
     void printArray(T arr[], int n) {
-        for(int i = 0; i++; i++)
+        for(int i = 0; i<n ; i++)
         cout << arr[i] << " ";
         cout << endl;
         return;

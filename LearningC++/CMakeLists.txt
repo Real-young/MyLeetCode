@@ -3,5 +3,5 @@ project(LearningC__)
 
 set(CMAKE_CXX_STANDARD 11)
 
-set(SOURCE_FILES main.cpp sortTestHelper.h insertionSort.h)
+set(SOURCE_FILES main.cpp sortTestHelper.h insertionSort.h mergeSort.h)
 add_executable(LearningC__ ${SOURCE_FILES})

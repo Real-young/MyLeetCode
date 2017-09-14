@@ -6,11 +6,23 @@
 
 #IncludeRegexTransform: 
 
-D:/untitled2/main.cpp
+C:/Users/175/MyLeetCode/quickSort/main.cpp
 iostream
 -
-cassert
+sortTestHelper.h
+C:/Users/175/MyLeetCode/quickSort/sortTestHelper.h
+quickSort.h
+C:/Users/175/MyLeetCode/quickSort/quickSort.h
+
+C:/Users/175/MyLeetCode/quickSort/quickSort.h
+iostream
+-
+
+C:/Users/175/MyLeetCode/quickSort/sortTestHelper.h
+iostream
 -
 ctime
+-
+cassert
 -
 

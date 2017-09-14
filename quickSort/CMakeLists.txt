@@ -3,5 +3,5 @@ project(untitled2)
 
 set(CMAKE_CXX_STANDARD 11)
 
-set(SOURCE_FILES main.cpp quickSort.h)
+set(SOURCE_FILES main.cpp quickSort.h quickSort2Ways.h)
 add_executable(untitled2 ${SOURCE_FILES})

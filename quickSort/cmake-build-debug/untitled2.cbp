@@ -91,6 +91,9 @@
 		<Unit filename="C:/Users/175/MyLeetCode/quickSort/quickSort2Ways.h">
 			<Option target="untitled2"/>
 		</Unit>
+		<Unit filename="C:/Users/175/MyLeetCode/quickSort/quickSort3Ways.h">
+			<Option target="untitled2"/>
+		</Unit>
 		<Unit filename="C:/Users/175/MyLeetCode/quickSort/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

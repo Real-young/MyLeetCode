@@ -13,6 +13,8 @@ sortTestHelper.h
 C:/Users/175/MyLeetCode/quickSort/sortTestHelper.h
 quickSort.h
 C:/Users/175/MyLeetCode/quickSort/quickSort.h
+quickSort3Ways.h
+C:/Users/175/MyLeetCode/quickSort/quickSort3Ways.h
 quickSort2Ways.h
 C:/Users/175/MyLeetCode/quickSort/quickSort2Ways.h
 
@@ -21,6 +23,12 @@ iostream
 -
 
 C:/Users/175/MyLeetCode/quickSort/quickSort2Ways.h
+iostream
+-
+ctime
+-
+
+C:/Users/175/MyLeetCode/quickSort/quickSort3Ways.h
 iostream
 -
 ctime
